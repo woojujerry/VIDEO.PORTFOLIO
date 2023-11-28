@@ -1,7 +1,7 @@
 $(function (){
     // 프론트엔드 포트폴리오
     $("#webpage04").mouseenter(function(){
-        $("#webpage04 img").stop().animate({marginTop:"-1885px"}, 2500)
+        $("#webpage04 img").stop().animate({marginTop:"-117em"}, 2500)
     }).mouseleave(function(){
         $("#webpage04 img").stop().animate({marginTop: "0px"}, 1000)
     })
