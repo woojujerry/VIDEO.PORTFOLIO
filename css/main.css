@@ -261,6 +261,34 @@ a:focus {
 #fullpage .section-02 {
     width: 100%;
     margin: 0 auto;
+    background-color: #87CEEB;
+}
+
+#pro-tit0 {
+    color: #fff;
+    background-color: #1E90FF;
+}
+
+#pofol-tit0 {
+    color: #1E90FF;
+}
+
+#btn0 {
+    color: #2e1c0e;
+    background-color: #fff;
+    border: 1px solid #1E90FF;
+}
+
+#btn0:hover {
+    color: #fff;
+    background-color: #1E90FF;
+    transition: 0.3s;
+}
+
+/* section 03 */
+#fullpage .section-03 {
+    width: 100%;
+    margin: 0 auto;
     background-color: #fff9ef;
 }
 
@@ -285,8 +313,8 @@ a:focus {
     transition: 0.3s;
 }
 
-/* section 03 */
-#fullpage .section-03 {
+/* section 04 */
+#fullpage .section-04 {
     width: 100%;
     margin: 0 auto;
     background-color: #eeeeee;
@@ -313,8 +341,8 @@ a:focus {
     transition: 0.3s;
 }
 
-/* section 04 */
-#fullpage .section-04 {
+/* section 05 */
+#fullpage .section-05 {
     width: 100%;
     margin: 0 auto;
     background-color: #fff6f0;
@@ -341,8 +369,8 @@ a:focus {
     transition: 0.3s;
 }
 
-/* section 05 */
-#fullpage .section-05 {
+/* section 06 */
+#fullpage .section-06 {
     width: 100%;
     margin: 0 auto;
     background-color: #f5fbff;
@@ -370,8 +398,8 @@ a:focus {
     transition: 0.3s;
 }
 
-/* section 06 */
-#fullpage .section-06 {
+/* section 07 */
+#fullpage .section-07 {
     margin: 0 auto;
     width: 100%;
     height: 100%;
