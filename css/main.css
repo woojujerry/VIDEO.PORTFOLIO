@@ -493,6 +493,7 @@ table>tbody>tr>td:nth-of-type(4) {
 
 .info-wrap {
     width: 50%;
+    justify-content: center;
 }
 
 #info-edu {
