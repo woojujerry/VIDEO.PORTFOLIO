@@ -496,6 +496,18 @@ table>tbody>tr>td:nth-of-type(4) {
     margin: 0;
 }
 
+.info-top {
+    position: relative;
+}
+
+.info-top>h3 {
+    position: absolute;
+    top: 20%;
+    left: 7%;
+    color: #fff;
+    font-size: 17px;
+}
+
 #info-edu {
     margin-top: 130px;
 }
